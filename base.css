@@ -8,6 +8,7 @@
 }
 
 :root {
+  --font-family: poppins;
   --social-blue: #2e8af6;
   --social-pink: #2e8af6;
   --dark-black: #181a1c;
@@ -17,5 +18,5 @@
 }
 
 body {
-  margin: 20px 20px 20px 20px;
+  margin: 20px;
 }

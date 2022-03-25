@@ -1,0 +1,11 @@
+.headline1 {
+  font-size: 18px;
+  font-family: var(--font-family);
+  color: white;
+}
+
+.headline2 {
+  font-size: 16px;
+  font-family: var(--font-family);
+  color: white;
+}

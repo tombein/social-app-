@@ -1,0 +1,17 @@
+.greeting {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+.story {
+  margin: 20px 0 20px 0;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.header-alert {
+  display: flex;
+  justify-content: space-between;
+}
