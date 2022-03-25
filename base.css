@@ -3,6 +3,8 @@
   padding: 0;
   box-sizing: border-box;
   background-color: var(--dark-black);
+  color: white;
+  font-family: Poppins;
 }
 
 :root {
@@ -12,4 +14,8 @@
   --social-white: #ecebed;
   --dark-grey: #323436;
   --lighter-grey: #727477;
+}
+
+body {
+  margin: 20px 20px 20px 20px;
 }
