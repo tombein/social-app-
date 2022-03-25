@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: var(--dark-black);
+}
+
+:root {
+  --social-blue: #2e8af6;
+  --social-pink: #2e8af6;
+  --dark-black: #181a1c;
+  --social-white: #ecebed;
+  --dark-grey: #323436;
+  --lighter-grey: #727477;
+}
