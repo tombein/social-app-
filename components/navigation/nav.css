@@ -1,0 +1,18 @@
+.nav-tag {
+  display: flex;
+  margin: 0 0 0 5px;
+}
+
+.nav-tag-item {
+  font-size: 10px;
+  padding: 5px 11px 5px 11px;
+  margin: 12px;
+  border: 2px solid var(--lighter-grey);
+  border-radius: 40px;
+  color: var(--social-white);
+  font-family: var(--font-family);
+}
+
+.nav-active {
+  background-color: var(--social-blue);
+}
