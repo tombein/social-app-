@@ -8,3 +8,9 @@
 @import url(./components/summary/summary.css);
 @import url(./components/navigation/nav.css);
 @import url(./base.css);
+
+.paragraph3 {
+  font-family: var(--font-family);
+  color: #f62e8e;
+  font-size: 14px;
+}
