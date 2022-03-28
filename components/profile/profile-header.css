@@ -12,8 +12,6 @@
 .profile-image {
   position: absolute;
   z-index: 10;
-  _top: 100px;
-  _left: calc(50vw - 75px);
   width: 150px;
   height: 150px;
   display: flex;
